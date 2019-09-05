@@ -1,3 +1,9 @@
+---
+layout: post
+title: Publications
+tags: [publications]
+---
+
 ### Main Publications
 
 Di Carlo, V., Bianchi, F.  & Palmonari, M. (2019). **Training Temporal Word Embeddings with a Compass.** AAAI.
