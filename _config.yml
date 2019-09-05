@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: AI, Representation and Reasoning
+title: Representation, AI and Reasoning
 
 # Short description of your site
-description: Working Group on Artificial Intelligence, Learning Representation  and Reasoning
+description: Working Group on Learning Representations, Artificial Intelligence and Reasoning
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
